@@ -1,0 +1,19 @@
+{
+  "name": "haberwds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rhliiit/package.git"
+  },
+  "author": "Pankaj Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rhliiit/package/issues"
+  },
+  "homepage": "https://github.com/Rhliiit/package#readme"
+}
